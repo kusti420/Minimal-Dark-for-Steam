@@ -17669,3 +17669,8 @@ select option:hover {
 }
 
 /* end webkit */
+
+/* Fix: transparent body causes previous page content to bleed through on DesktopUI pages (e.g. /games/?tab=all).
+   background-color only — background-image left free for dynamic overrides (e.g. profile background plugin). */
+html { background-color: #191919 !important; }
+body.DesktopUI { background-color: #191919 !important; }
