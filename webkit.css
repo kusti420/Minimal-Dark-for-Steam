@@ -10,7 +10,7 @@
 /* global colors */
 --minimal_dark_be_grey: #262626;
 --minimal_dark_black: #1e1e1e;
---minimal_dark_blacker: #191919;
+--minimal_dark_blacker: #000000;
 --minimal_dark_blacker_alt: #121212;
 --minimal_dark_blacker_alt1: #101010;
 --minimal_dark_blacker_alt2: #0c0c0c;
@@ -6684,7 +6684,7 @@ body.v6 .game_area_already_owned.page_content {
 }
 
 .package_in_library_flag.in_own_library {
-    background: #1919199c !important;
+    background: #0000009c !important;
     backdrop-filter: blur(8px);
     border-radius: var(--minimal_dark_corner) !important;
     color: var(--minimal_dark_browser_overlay_close);
@@ -8593,7 +8593,7 @@ body.profile_edit_page input.DialogTextInputBase, body.profile_edit_page input.D
 }
 
 .popup_body.search_v2 .match.match_v2 .match_name span {
-    background: #1919195e !important;
+    background: #0000005e !important;
     border-radius: var(--minimal_dark_corner) !important;
     backdrop-filter: blur(8px) !important;
     border: 1px solid var(--minimal_dark_invisiblegrey) !important;
@@ -9648,7 +9648,7 @@ img.communitylink_achievement {
 
 ._24xXqJoM1vk2jNIc6fU-LD {
 	height: 26px !important;
-    background: #191919d4 !important;
+    background: #000000d4 !important;
     backdrop-filter: blur(30px) !important;
     border-radius: var(--minimal_dark_corner) !important;
     color: var(--minimal_dark_browser_overlay_close) !important;
@@ -13732,7 +13732,7 @@ span#VoteDownBtn_4476110736154691403:hover {
 .completed_badge_ctn {
     border: 1px solid var(--minimal_dark_be_grey) !important;
     border-radius: var(--minimal_dark_corner) !important;
-    background: linear-gradient(to bottom, #19191994 5%, #19191994 95%) !important;
+    background: linear-gradient(to bottom, #00000094 5%, #00000094 95%) !important;
     backdrop-filter: blur(8px) !important;
 }
 
@@ -14586,7 +14586,7 @@ h3 {
 }
 
 ._1MwNf8slOG9lOvAeOshmuu._1ruRSreC31IK4kUGUcSRDK {
-    background: radial-gradient(156.1% 79.95% at 10.31% 0%, #191919 0%, #121212 100%) !important;
+    background: radial-gradient(156.1% 79.95% at 10.31% 0%, #000000 0%, #121212 100%) !important;
     border: 1px solid var(--minimal_dark_be_grey) !important;
     border-radius: var(--minimal_dark_corner) !important;
 }
@@ -14793,7 +14793,7 @@ div.quicklistselect #quicklistselect_arrow {
     width: 175px !important;
     height: 82px !important;
     border: 1px solid var(--minimal_dark_be_grey) !important;
-    background-color: #191919 !important;
+    background-color: #000000 !important;
     background-repeat: no-repeat;
 }
 
@@ -14807,7 +14807,7 @@ div.quicklistselect #quicklistselect_arrow {
 	border-top: 1px solid var(--minimal_dark_color1) !important;
     border: 1px solid var(--minimal_dark_be_grey) !important;
 	background-image: none !important;
-    background-color: #191919 !important;
+    background-color: #000000 !important;
     background-repeat: no-repeat;
 }
 
@@ -15430,7 +15430,7 @@ textarea.gLFyf, .YacQv {
 }
 
 .ds_owned_flag.ds_flag {
-    background: #1919199c !important;
+    background: #0000009c !important;
     backdrop-filter: blur(8px);
     border-radius: var(--minimal_dark_corner) !important;
     padding: 0 0 0 4px !important;
@@ -15453,7 +15453,7 @@ textarea.gLFyf, .YacQv {
 
 .ds_collapse_flag.ds_collapse_flag_tiny .ds_flag.ds_owned_flag {
     border-left: 1px solid var(--minimal_dark_browser_overlay_close) !important;
-    background: #1919199c !important;
+    background: #0000009c !important;
     backdrop-filter: blur(8px);
     border-radius: var(--minimal_dark_corner) !important;
 	color: var(--minimal_dark_browser_overlay_close) !important;
@@ -15461,7 +15461,7 @@ textarea.gLFyf, .YacQv {
 
 .ds_collapse_flag.ds_collapse_flag_tiny .ds_flag.ds_wishlist_flag {
     border-left: 1px solid #d3deea !important;
-    background: #1919199c !important;
+    background: #0000009c !important;
     backdrop-filter: blur(8px);
     border-radius: var(--minimal_dark_corner) !important;
 	color: #d3deea !important;
@@ -15472,7 +15472,7 @@ textarea.gLFyf, .YacQv {
 }
 
 .ds_flag.ds_wishlist_flag {
-	background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAkUlEQVR4nI2OsQkCURBELxIRMRYxEG3DKq4Ar4Grw0JswcBEE0PBTg5M5v0NVxa+4P07xIWBZeYxTFUV5+7TUOkPTlIj6fAP+ACeg8DdJ2a2SSntgRbwrDa8yIIJcA5cv4CeJN27rlt8WmfAZQS8RVFvgpltS9DMdoOtQJ2BV1b89Rh4BM7AWtISOIU3Bq5+eW+QbLpxgzr0LQAAAABJRU5ErkJggg==') no-repeat 4px 4px #1919199c !important;
+	background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAkUlEQVR4nI2OsQkCURBELxIRMRYxEG3DKq4Ar4Grw0JswcBEE0PBTg5M5v0NVxa+4P07xIWBZeYxTFUV5+7TUOkPTlIj6fAP+ACeg8DdJ2a2SSntgRbwrDa8yIIJcA5cv4CeJN27rlt8WmfAZQS8RVFvgpltS9DMdoOtQJ2BV1b89Rh4BM7AWtISOIU3Bq5+eW+QbLpxgzr0LQAAAABJRU5ErkJggg==') no-repeat 4px 4px #0000009c !important;
     backdrop-filter: blur(8px);
     border: 1px solid var(--minimal_dark_be_grey) !important;
     border-left: 1px solid #d3deea !important;
@@ -17670,7 +17670,3 @@ select option:hover {
 
 /* end webkit */
 
-/* Fix: transparent body causes previous page content to bleed through on DesktopUI pages (e.g. /games/?tab=all).
-   background-color only — background-image left free for dynamic overrides (e.g. profile background plugin). */
-html { background-color: #191919 !important; }
-body.DesktopUI { background-color: #191919 !important; }
